@@ -1,0 +1,19 @@
+HDR20220915
+SUB21307P016       254379465425    James           S               Simmons         1255            New Street      Clark,NJ        07066                 
+PAT21307P016       423544646666    Arthur                          Simmons         M               198760321       HealthCare      HC     
+CAS21307P016       Medical         MC              20220723        20220831        Insurance       Completed
+SVC21307P016       234324355555    Day Care        DC              HC              Heart Center    34343555        Dr.Charles             
+SUB21307P017       343666y77784    Charles                         Williams        1255            New Street      Clark,NJ        07066                 
+PAT21307P017       557777754533    Noah                            Williams        M               198760321       HealthCare      HC     
+CAS21307P017       Medical         MC              20220723        20220831        Insurance       Completed
+SVC21307P017       745467445533    Day Care        DC              KC              Kidney Center   34343555        Dr.Charles             
+SUB21307P018       457474746553    Jack            S               Jones           1255            New Street      Clark,NJ        07066                 
+PAT21307P018       757547474545    Lucas                           Jones           M               198760321       HealthCare      HC     
+CAS21307P018       Medical         MC              20220723        20220831        Insurance       Completed
+SVC21307P018       457457457757    Day Care        DC              BC              Brain Center    34343555        Dr.Charles             
+SUB21307P019       587994622344    Henry           S               Taylor          1255            New Street      Clark,NJ        07066                 
+PAT21307P019       133235413144    Olive                           Taylor          M               198760321       HealthCare      HC     
+CAS21307P019       Medical         MC              20220723        20220831        Insurance       Completed
+SVC21307P019       134324564678    Day Care        DC              HC              Heart Center    34343555        Dr.Charles             
+TRL20220915
+
